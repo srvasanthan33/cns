@@ -50,6 +50,6 @@ int main()
     printf("%s",message);
 
     decrypt(message,key);
-    printf("")
+    printf("%s",message);
 
 }
